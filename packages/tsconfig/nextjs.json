@@ -13,7 +13,7 @@
       "dom.iterable",
       "esnext"
     ],
-    "target": "es5",
+    "target": "es2017",
     "module": "esnext",
     "moduleResolution": "node",
     "jsx": "preserve",
